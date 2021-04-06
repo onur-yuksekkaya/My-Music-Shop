@@ -1,0 +1,42 @@
+header .navbar-brand {
+  color: orangered !important;
+  font-size: 24px;
+}
+
+.mainpage h1 {
+  color: orangered;
+}
+
+.mainpage h4 {
+  color: orange;
+}
+
+.mainpage ul li {
+  list-style-type: none;
+}
+
+.mainpage button a {
+  color: white;
+  text-decoration: none;
+}
+
+.about-us h4 {
+  color: orange;
+}
+
+.products {
+  margin-top: 50px;
+}
+
+.products .card-title {
+  color: purple;
+}
+
+.products img {
+  padding: 20px;
+}
+
+.products h1 {
+  color: purple;
+}
+/*# sourceMappingURL=style.css.map */
