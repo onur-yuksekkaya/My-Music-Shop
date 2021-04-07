@@ -22,8 +22,11 @@ header {
 
 .about-us { 
     h4  {
-        color: orange;
+        color: orange; 
     }
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .products { 
